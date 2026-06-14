@@ -1,0 +1,8 @@
+# SENTIENT
+
+> SENTIENT is an AI-powered reasoning and mind-mapping canvas. Ask a question and it maps ideas, tensions, evidence, and synthesis into an interactive graph you can extend with thinking modes (Summarize, Critique, Brainstorm, Devil's advocate).
+
+## Pages
+
+- [Home](/): Ask a question and start a new reasoning map.
+- [Canvas](/canvas): Interactive reasoning canvas with AI copilot, voice mode, memory, MCP connectors, and collaboration.
